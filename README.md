@@ -1,2 +1,9 @@
 # l298p_example
-Examples L298P shield
+Exemple pentru [L298P shield](https://www.robofun.ro/shield-driver-motor-l298p?search=l298)
+
+
+Exemple:
+* [go](go) - Exemplu driver de motor
+
+
+
